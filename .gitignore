@@ -1,0 +1,19 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Target build folder
+/target/
+
+# Package Files #
+*.jar
+*.war
+*.zip
+*.tar.gz
+**/target/
+.DS_Store
